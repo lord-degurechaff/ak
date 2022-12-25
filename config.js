@@ -102,15 +102,15 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By Neko Bot' //Main Watermark
-global.wm2 = 'Neko Bot'
-global.wm3 = 'Neko Bot | By Bang Fuad'
+global.wm = 'By Anime Kawaii' //Main Watermark
+global.wm2 = 'Anime Kawaii'
+global.wm3 = 'Anime Kawaii | By Sandi'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Neko Bot| ʙʏ ${global.nameown}`
-global.author = 'Bang Fuad' 
-global.packname = 'Neko Bot'
-global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
+global.titlebot = `Anime Kawaii| ʙʏ ${global.nameown}`
+global.author = 'Sandi' 
+global.packname = 'Anime Kawaii'
+global.danied = '✘ 𝗘𝗥𝗢𝗥 '
 global.ultahowner = 'Juli 11 2022'
 
 
